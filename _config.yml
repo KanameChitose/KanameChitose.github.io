@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: KanameChitose Blog
+SEOTitle: 鹿目圆的博客 | KanameChitose Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: 1761069470@qq.com
+description: "如果有人说怀有希望是错误，我会无数次反驳“不是这样的”，不管到什么时候。"
+keyword: "KanameChitose, KanameChitose Blog, 鹿目圆的博客"
+url: "KanameChitose.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
